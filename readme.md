@@ -1,4 +1,4 @@
-**Create a Web blog application with the following features:**
+## *Create a Web blog application with the following features:*
 - User registration and login
 - User profile
 - User can create, edit, delete, and view a blog post
